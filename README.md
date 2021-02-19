@@ -17,7 +17,12 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 
 | FFHQ | |
 | :---: | :---: |
+| Pose | Smile |
 | ![image](./images/FFHQ/FFHQ_pose.png) | ![image](./images/FFHQ/FFHQ_smile.png) |
+| Race | Oldness |
+| ![image](./images/FFHQ/FFHQ_color.png) | ![image](./images/FFHQ/FFHQ_old.png) |
+| Overexpose | Hair |
+| ![image](./images/FFHQ/FFHQ_over.png) | ![image](./images/FFHQ/FFHQ_hair.png) |
 
 
 ## BibTeX
