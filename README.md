@@ -15,23 +15,15 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner.
 
-| Cars3D | Chairs | CelebA |
-| :---: | :---: | :---: |
-| ![image](./images/car_ours_1.png) | ![image](./images/chairs_ours_1.png) | ![image](./images/celeba_ours_1.png) |
-
-| Cat | Anime | 
+| FFHQ | |
 | :---: | :---: |
-| ![image](./images/cat_1.png) | ![image](./images/anima_1.jpg) |
+| Pose | Smile |
+| ![image](./images/FFHQ/FFHQ_pose.png) | ![image](./images/FFHQ/FFHQ_smile.png) |
+| Race | Oldness |
+| ![image](./images/FFHQ/FFHQ_color.png) | ![image](./images/FFHQ/FFHQ_old.png) |
+| Overexpose | Hair |
+| ![image](./images/FFHQ/FFHQ_over.png) | ![image](./images/FFHQ/FFHQ_hair.png) |
 
-| Market-1501 | 
-| :---: | 
-| ![image](./images/reid_2.png) |
-
-| Celeba | | |
-| :-- | :-- | :-- |
-| ![image](./images/movie_3.gif) | ![image](./images/movie_4.gif) | ![image](./images/movie_5.gif)
-| ![image](./images/movie_6.gif) | ![image](./images/movie_7.gif) | ![image](./images/movie_8.gif)
-    
 
 ## BibTeX
 
