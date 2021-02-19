@@ -9,6 +9,8 @@
 [[Appendix]()]
 [[Demo]()]
 
+![image](./images/DisCo_overview_crop.png)
+
 In this repo, we propose an **unsupervised** and **model-agnostic** method: Disentanglement via Contrast (**DisCo**) in the Variation Space.
 This code discovers disentangled directions in the latent space and extract disentangled representations from images with **Contrastive Learning**.
 DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**. 
@@ -37,12 +39,20 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | Azimuth | Yaw |
 | ![image](./images/car3d/style_car_azi.png) | ![image](./images/car3d/style_car_yaw.png) |
 
+| Anime SNGAN | |
+| :---: | :---: |
+| Pose | Natureness |
+| ![image](./images/Anime/SN_Aime_appendix_pose.png) | ![image](./images/Anime/SN_Aime_appendix_nature.png) |
+| Glass | Tone |
+| ![image](./images/Anime/SN_Aime_appendix_glass.png) | ![image](./images/Anime/SN_Aime_appendix_hair.png) |
+
 ## Disentangled Representation
 | Shapes3D | |
 | :---: | :---: |
 | MIG | DCI |
 | ![image](./images/distribution_mig.png) | ![image](./images/distribution.png) |
 
+**NOTE:** DisCo achieves the state-of-the-art disentanglement
 
 
 ## BibTeX
