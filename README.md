@@ -9,9 +9,9 @@
 [[Appendix]()]
 [[Demo]()]
 
-In this repo, we propose an unsupervised and model-agnostic method: Disentanglement via Contrast (DisCo) in the Variation Space.
-This code discovers disentangled directions in the latent space and extract disentangled representations from images with Contrastive Learning.
-DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, including GAN, VAE, and Flow. 
+In this repo, we propose an **unsupervised** and **model-agnostic** method: Disentanglement via Contrast (**DisCo**) in the Variation Space.
+This code discovers disentangled directions in the latent space and extract disentangled representations from images with **Contrastive Learning**.
+DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**. 
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner.
 
@@ -31,12 +31,10 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | Object Color | Pose |
 | ![image](./images/shape3d/style_shape_object.png) | ![image](./images/shape3d/style_shape_pose.png) |
 
-| Shapes3D | |
+| Car3D StyleGAN2 | |
 | :---: | :---: |
-| Wall Color | Floor Color |
-| ![image](./images/shape3d/style_shape_back.png) | ![image](./images/shape3d/style_shape_floor.png) |
-| Object Color | Pose |
-| ![image](./images/shape3d/style_shape_object.png) | ![image](./images/shape3d/style_shape_pose.png) |
+| Azimuth | Yaw |
+| ![image](./images/car3d/style_car_azi.png) | ![image](./images/car3d/style_car_yaw.png) |
 
 
 ## BibTeX
