@@ -15,6 +15,7 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner.
 
+## Disentangled Directions in the Latent Space
 | FFHQ StyleGAN2 |  |
 | :---: | :---: |
 | Pose | Smile |
@@ -35,6 +36,13 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | :---: | :---: |
 | Azimuth | Yaw |
 | ![image](./images/car3d/style_car_azi.png) | ![image](./images/car3d/style_car_yaw.png) |
+
+## Disentangled Representation
+| Shapes3D | |
+| :---: | :---: |
+| MIG | DCI |
+| ![image](./images/distribution_mig.png) | ![image](./images/distribution.png) |
+
 
 
 ## BibTeX
