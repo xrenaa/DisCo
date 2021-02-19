@@ -15,7 +15,7 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner.
 
-| FFHQ | |
+| FFHQ StyleGAN2 |  |
 | :---: | :---: |
 | Pose | Smile |
 | ![image](./images/FFHQ/FFHQ_pose.png) | ![image](./images/FFHQ/FFHQ_smile.png) |
@@ -23,6 +23,20 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | ![image](./images/FFHQ/FFHQ_color.png) | ![image](./images/FFHQ/FFHQ_old.png) |
 | Overexpose | Hair |
 | ![image](./images/FFHQ/FFHQ_over.png) | ![image](./images/FFHQ/FFHQ_hair.png) |
+
+| Shapes3D StyleGAN2 |  |
+| :---: | :---: |
+| Wall Color | Floor Color |
+| ![image](./images/shape3d/style_shape_back.png) | ![image](./images/shape3d/style_shape_floor.png) |
+| Object Color | Pose |
+| ![image](./images/shape3d/style_shape_object.png) | ![image](./images/shape3d/style_shape_pose.png) |
+
+| Shapes3D | |
+| :---: | :---: |
+| Wall Color | Floor Color |
+| ![image](./images/shape3d/style_shape_back.png) | ![image](./images/shape3d/style_shape_floor.png) |
+| Object Color | Pose |
+| ![image](./images/shape3d/style_shape_object.png) | ![image](./images/shape3d/style_shape_pose.png) |
 
 
 ## BibTeX
