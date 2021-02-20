@@ -58,7 +58,7 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 ## BibTeX
 
 ```bibtex
-@article{shen2020closedform,
+@article{ren2021DisCo,
   title   = {Do Generative Models Know Disentanglement? Contrastive Learning is All You Need},
   author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
   journal = {arXiv preprint arXiv:2007.06600},
