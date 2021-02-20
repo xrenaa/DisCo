@@ -59,9 +59,9 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 
 ```bibtex
 @article{shen2020closedform,
-  title   = {Closed-Form Factorization of Latent Semantics in GANs},
-  author  = {Shen, Yujun and Zhou, Bolei},
+  title   = {Do Generative Models Know Disentanglement? Contrastive Learning is All You Need},
+  author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
   journal = {arXiv preprint arXiv:2007.06600},
-  year    = {2020}
+  year    = {2021}
 }
 ```
