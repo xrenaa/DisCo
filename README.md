@@ -2,12 +2,11 @@
 
 > **Do Generative Models Know Disentanglement? Contrastive Learning is All You Need** <br>
 > Xuanchi Ren*, Tao Yang*, Yuwang Wang and Wenjun Zeng <br>
-> *arXiv preprint arXiv:2007.06600*<br>
+> *arXiv preprint arXiv:2102.10543*<br>
 > \* indicates equal contribution 
 > 
-[[Paper]()]
+[[Paper](https://arxiv.org/abs/2102.10543)]
 [[Appendix]()]
-[[Demo]()]
 
 ![image](./images/DisCo_overview_crop.png)
 
@@ -61,7 +60,7 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 @article{ren2021DisCo,
   title   = {Do Generative Models Know Disentanglement? Contrastive Learning is All You Need},
   author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
-  journal = {arXiv preprint arXiv:2007.06600},
+  journal = {arXiv preprint arXiv: 2102.10543},
   year    = {2021}
 }
 ```
