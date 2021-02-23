@@ -6,7 +6,7 @@
 > \* indicates equal contribution 
 > 
 [[Paper](https://arxiv.org/abs/2102.10543)]
-[[Appendix]()]
+[[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)]
 
 ![image](./images/DisCo_overview_crop.png)
 
@@ -14,7 +14,7 @@ In this repo, we propose an **unsupervised** and **model-agnostic** method: Dise
 This code discovers disentangled directions in the latent space and extract disentangled representations from images with **Contrastive Learning**.
 DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**. 
 
-**NOTE:** The following results are obtained in a completely *unsupervised* manner.
+**NOTE:** The following results are obtained in a completely *unsupervised* manner. More results (including VAE and Flow) are presented in *Appendix*.
 
 ## Disentangled Directions in the Latent Space
 | FFHQ StyleGAN2 |  |
