@@ -1,5 +1,8 @@
 # Do Generative Models Know Disentanglement? Contrastive Learning is All You Need
 
+<a href="https://arxiv.org/abs/2102.10543"><img src="https://img.shields.io/badge/arXiv-2102.10543-b31b1b.svg"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+
 > **Do Generative Models Know Disentanglement? Contrastive Learning is All You Need** <br>
 > Xuanchi Ren*, Tao Yang*, Yuwang Wang and Wenjun Zeng <br>
 > *arXiv preprint arXiv:2102.10543*<br>
@@ -8,11 +11,19 @@
 [[Paper](https://arxiv.org/abs/2102.10543)]
 [[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)]
 
+
+## Recent Updates
+**`2021.2.24`**: Add Appendix   
+**`2021.5.01`**: Plan to release code.
+
+
+## Description   
 ![image](./images/DisCo_overview_crop.png)
 
 In this repo, we propose an **unsupervised** and **model-agnostic** method: Disentanglement via Contrast (**DisCo**) in the Variation Space.
 This code discovers disentangled directions in the latent space and extract disentangled representations from images with **Contrastive Learning**.
-DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**. 
+DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**.  
+
 
 **NOTE:** The following results are obtained in a completely *unsupervised* manner. More results (including VAE and Flow) are presented in *Appendix*.
 
