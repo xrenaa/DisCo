@@ -13,7 +13,7 @@
 
 
 ## Recent Updates
-**`2021.2.24`**: Add Appendix   
+**`2021.2.24`**: Add Appendix.   
 **`2021.5.01`**: Plan to release code.
 
 
