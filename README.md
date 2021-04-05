@@ -57,6 +57,9 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | ![image](./images/Anime/SN_Aime_appendix_glass.png) | ![image](./images/Anime/SN_Aime_appendix_hair.png) |
 
 ## Disentangled Representation
+
+**NOTE:** DisCo achieves the state-of-the-art disentanglement
+
 | Shapes3D | |
 | :---: | :---: |
 | MIG | DCI |
@@ -71,9 +74,6 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | :---: | :---: |
 | MIG | DCI |
 | ![image](./images/mpi3d_violin_mig.png) | ![image](./images/mpi3d_violin_dci.png) |
-
-**NOTE:** DisCo achieves the state-of-the-art disentanglement
-
 
 ## BibTeX
 
