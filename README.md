@@ -25,7 +25,7 @@ This code **discovers disentangled directions** in the latent space and **extrac
 DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**.  
 
 
-**NOTE:** The following results are obtained in a completely *unsupervised* manner. More results (including VAE and Flow) are presented in *Appendix*.
+**NOTE:** The following results are obtained in a completely *unsupervised* manner. More results (including VAE and Flow) are presented in [*Appendix*](https://xuanchiren.com/pub/DisCo_appendix.pdf).
 
 ## Disentangled Directions in the Latent Space
 | FFHQ StyleGAN2 |  |
@@ -61,6 +61,16 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 | :---: | :---: |
 | MIG | DCI |
 | ![image](./images/distribution_mig.png) | ![image](./images/distribution.png) |
+
+| Car3D | |
+| :---: | :---: |
+| MIG | DCI |
+| ![image](./images/Cars3d_violin_mig.png) | ![image](./images/Cars3d_violin_dci.png) |
+
+| MPI3D | |
+| :---: | :---: |
+| MIG | DCI |
+| ![image](./images/mpi3d_violin_mig.png) | ![image](./images/mpi3d_violin_dci.png) |
 
 **NOTE:** DisCo achieves the state-of-the-art disentanglement
 
