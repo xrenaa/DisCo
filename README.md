@@ -21,7 +21,7 @@
 ![image](./images/DisCo_overview_crop.png)
 
 In this repo, we propose an **unsupervised** and **model-agnostic** method: Disentanglement via Contrast (**DisCo**) in the Variation Space.
-This code discovers disentangled directions in the latent space and extract disentangled representations from images with **Contrastive Learning**.
+This code **discovers disentangled directions** in the latent space and **extract disentangled representations** from images with **Contrastive Learning**.
 DisCo achieves the state-of-the-art disentanglement given pretrained non-disentangled generative models, **including GAN, VAE, and Flow**.  
 
 
