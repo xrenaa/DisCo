@@ -1,21 +1,22 @@
-# Do Generative Models Know Disentanglement? Contrastive Learning is All You Need
+# Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View
 
 <a href="https://arxiv.org/abs/2102.10543"><img src="https://img.shields.io/badge/arXiv-2102.10543-b31b1b.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
-> **Do Generative Models Know Disentanglement? Contrastive Learning is All You Need** <br>
-> Xuanchi Ren*, Tao Yang*, Yuwang Wang and Wenjun Zeng <br>
-> *arXiv preprint arXiv:2102.10543*<br>
-> \* indicates equal contribution 
+> **Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View** <br>
+> Xuanchi Ren, Tao Yang, Yuwang Wang and Wenjun Zeng <br>
+> *ICLR 2022*<br>
 > 
 [[Paper](https://arxiv.org/abs/2102.10543)]
 [[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)]
 
+## Update:
 
-## Recent Updates
-**`2021.2.24`**: Add Appendix.   
-**`2021.5.01`**: Plan to release code.
-
+:white_check_mark: Update StyleGAN2  
+:white_check_mark: Update SNGAN  
+:black_square_button: Update VAE  
+:black_square_button: Update Glow  
+:white_check_mark: Evaluation  
 
 ## Description   
 ![image](./images/DisCo_overview_crop.png)
@@ -161,23 +162,15 @@ StyleGAN are based on: https://github.com/rosinality/stylegan2-pytorch.
 
 Disentanglement metrics are based on: https://github.com/google-research/disentanglement_lib.
 
-## Update:
-
-:white_check_mark: Update StyleGAN2  
-:white_check_mark: Update SNGAN  
-:black_square_button: Update VAE  
-:black_square_button: Update Glow  
-:white_check_mark: Evaluation  
-
 
 ## BibTeX
 
 ```bibtex
-@article{ren2021DisCo,
-  title   = {Do Generative Models Know Disentanglement? Contrastive Learning is All You Need},
+@inproceedings{ren2022DisCo,
+  title   = {Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View},
   author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
-  journal = {arXiv preprint arXiv: 2102.10543},
-  year    = {2021}
+  booktitle = {ICLR},
+  year    = {2022}
 }
 ```
 
