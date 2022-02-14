@@ -87,10 +87,11 @@ DisCo achieves the state-of-the-art disentanglement given pretrained non-disenta
 git clone https://github.com/xrenaa/DisCo.git
 cd DisCo
 ```
-- Dependencies:  
+- Dependencies (To Do):  
 We recommend running this repository using [Anaconda](https://docs.anaconda.com/anaconda/install/). 
-All dependencies for defining the environment are provided in `disco.yaml`.
-
+<!-- All dependencies for defining the environment are provided in `disco.yaml`. 
+ -->
+ 
 - Docker:  
 Alternatively, you can use `Docker` to run the code. We provide `gan-disc` for easy use.
 
