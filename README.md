@@ -93,7 +93,7 @@ We recommend running this repository using [Anaconda](https://docs.anaconda.com/
  -->
  
 - Docker:  
-Alternatively, you can use `Docker` to run the code. We provide `gan-disc` for easy use.
+Alternatively, you can use `Docker` to run the code. We provide `thomasyt/gan-disc` for easy use.
 
 ### Pretrained Models
 Please download the pre-trained models from the following links and put them to the corresponding paths. 
