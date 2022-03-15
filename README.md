@@ -7,9 +7,10 @@
 > Xuanchi Ren*, Tao Yang*, Yuwang Wang and Wenjun Zeng <br>
 > *ICLR 2022*<br>
 > \* indicates equal contribution 
-> 
-[[Paper](https://arxiv.org/abs/2102.10543)]
-[[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)]
+
+[[Paper](https://openreview.net/forum?id=j-63FSNcO5a)]
+[[ArXiv](https://arxiv.org/abs/2102.10543)]
+<!-- [[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)] -->
 
 ## Update:
 
@@ -170,7 +171,7 @@ Disentanglement metrics are based on: https://github.com/google-research/disenta
 ```bibtex
 @inproceedings{ren2022DisCo,
   title   = {Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View},
-  author  = {Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng},
+  author  = {Ren, Xuanchi and Yang, Tao and Wang, Yuwang and Zeng, Wenjun},
   booktitle = {ICLR},
   year    = {2022}
 }
