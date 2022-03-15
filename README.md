@@ -6,6 +6,7 @@
 > **Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View** <br>
 > Xuanchi Ren*, Tao Yang*, Yuwang Wang and Wenjun Zeng <br>
 > *ICLR 2022*<br>
+> \* indicates equal contribution 
 > 
 [[Paper](https://arxiv.org/abs/2102.10543)]
 [[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)]
