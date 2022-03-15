@@ -4,7 +4,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 > **Learning Disentangled Representation by Exploiting Pretrained Generative Models: A Contrastive Learning View** <br>
-> Xuanchi Ren, Tao Yang, Yuwang Wang and Wenjun Zeng <br>
+> Xuanchi Ren*, Tao Yang*, Yuwang Wang and Wenjun Zeng <br>
 > *ICLR 2022*<br>
 > 
 [[Paper](https://arxiv.org/abs/2102.10543)]
