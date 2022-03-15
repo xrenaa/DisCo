@@ -159,7 +159,7 @@ For `--dataset`, you can choose `0` for shapes3D, `1` for mpi3d, `2` for cars3d 
 
 ## Credits
 
-ProgGAN and BigGAN are based on: https://github.com/anvoynov/GANLatentDiscovery.
+Navigator and SNGAN are based on: https://github.com/anvoynov/GANLatentDiscovery.
 
 StyleGAN are based on: https://github.com/rosinality/stylegan2-pytorch.
 
