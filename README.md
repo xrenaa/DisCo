@@ -13,12 +13,14 @@
 <!-- [[Appendix](https://xuanchiren.com/pub/DisCo_appendix.pdf)] -->
 
 ## Update:
+<!-- :black_square_button: Update VAE  
+:black_square_button: Update Glow   -->
 
 :white_check_mark: Update StyleGAN2  
 :white_check_mark: Update SNGAN  
-:black_square_button: Update VAE  
-:black_square_button: Update Glow  
 :white_check_mark: Evaluation  
+
+**NOTE:** The code base for VAE and Glow is not easy to merge in this repo. If you are interested in them, please connect me!
 
 ## Description   
 ![image](./images/DisCo_overview_crop.png)
