@@ -92,7 +92,7 @@ git clone https://github.com/xrenaa/DisCo.git
 cd DisCo
 ```
 - Dependencies (To Do):  
-We recommend running this repository using [Anaconda](https://docs.anaconda.com/anaconda/install/). The main dependencies are `PyTorch 1.3.1` and `CUDA 10.1/10.2`.
+We recommend running this repository using [Anaconda](https://docs.anaconda.com/anaconda/install/). The main dependencies are `PyTorch 1.3.1` and `CUDA 10.1/10.2`. If you encounter issues with the dependencies, please refer to issues in https://github.com/rosinality/stylegan2-pytorch.
 <!-- All dependencies for defining the environment are provided in `disco.yaml`. 
  -->
  
